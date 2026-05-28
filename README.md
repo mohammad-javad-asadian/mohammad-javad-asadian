@@ -9,5 +9,6 @@
 
 <div>
   <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,npm,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,npm,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,sass,php,phpmyadmin" />
 </div>
